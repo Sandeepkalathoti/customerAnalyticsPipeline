@@ -1,0 +1,21 @@
+purchase_id,customer_id,purchase_date,product,category,quantity,unit_price,payment_method
+P1001,C001,2025-01-05,Laptop,Electronics,1,65000,Credit Card
+P1002,C002,2025-01-08,Headphones,Electronics,2,2500,UPI
+P1003,C003,2025-01-12,Office Chair,Furniture,1,8500,Debit Card
+P1004,C001,2025-01-20,Keyboard,Electronics,1,1800,UPI
+P1005,C004,2025-02-02,Monitor,Electronics,2,15000,Credit Card
+P1006,C005,2025-02-10,Desk,Furniture,1,12000,UPI
+P1007,C006,2025-02-15,Mouse,Electronics,3,900,Debit Card
+P1008,C007,2025-02-22,Backpack,Accessories,2,1800,UPI
+P1009,C008,2025-03-01,Tablet,Electronics,1,28000,Credit Card
+P1010,C009,2025-03-08,Smartphone,Electronics,1,45000,UPI
+P1011,C010,2025-03-15,Desk Lamp,Home,2,1200,Debit Card
+P1012,C002,2025-03-22,Webcam,Electronics,1,3500,UPI
+P1013,C003,2025-04-01,Bookshelf,Furniture,1,7000,Credit Card
+P1014,C004,2025-04-10,USB Cable,Accessories,5,400,UPI
+P1015,C005,2025-04-18,Printer,Electronics,1,18000,Credit Card
+P1016,C001,2025-05-02,Smartwatch,Electronics,1,12000,UPI
+P1017,C006,2025-05-10,Table, Furniture,1,15000,Debit Card
+P1018,C008,2025-05-18,Mobile Case,Accessories,3,800,UPI
+P1019,C009,2025-06-01,Air Conditioner,Electronics,1,55000,Credit Card
+P1020,C010,2025-06-12,Coffee Maker,Home,1,6500,UPI
