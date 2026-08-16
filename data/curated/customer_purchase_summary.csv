@@ -1,0 +1,11 @@
+customer_id,customer_name,city,age,gender,purchase_count,total_quantity,total_spend,average_purchase_value
+C001,Ravi Kumar,Hyderabad,28,MALE,3,3,78800,26266.67
+C002,Sneha Reddy,Bengaluru,25,FEMALE,2,3,8500,4250.00
+C003,Arjun Rao,Chennai,32,MALE,2,2,15500,7750.00
+C004,Priya Sharma,Mumbai,29,FEMALE,2,7,17000,8500.00
+C005,Kiran Kumar,Pune,35,MALE,2,2,30000,15000.00
+C006,Anjali Reddy,Delhi,27,FEMALE,2,4,15900,7950.00
+C007,Vikram Singh,Kolkata,31,MALE,1,2,3600,3600.00
+C008,Neha Patel,Ahmedabad,26,FEMALE,2,4,30400,15200.00
+C009,Rohit Verma,Hyderabad,34,MALE,2,2,100000,50000.00
+C010,Divya Rao,Vijayawada,24,FEMALE,2,3,8900,4450.00
