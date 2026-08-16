@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,age,gender,signup_date
+C001,Ravi Kumar,ravi@example.com,Hyderabad,28,Male,2024-01-15
+C002,Sneha Reddy,sneha@example.com,Bengaluru,25,Female,2024-02-10
+C003,Arjun Rao,arjun@example.com,Chennai,32,Male,2024-02-18
+C004,Priya Sharma,priya@example.com,Mumbai,29,Female,2024-03-05
+C005,Kiran Kumar,kiran@example.com,Pune,35,Male,2024-03-22
+C006,Anjali Reddy,anjali@example.com,Delhi,27,Female,2024-04-01
+C007,Vikram Singh,vikram@example.com,Kolkata,31,Male,2024-04-15
+C008,Neha Patel,neha@example.com,Ahmedabad,26,Female,2024-05-03
+C009,Rohit Verma,rohit@example.com,Hyderabad,34,Male,2024-05-18
+C010,Divya Rao,divya@example.com,Vijayawada,24,Female,2024-06-01
